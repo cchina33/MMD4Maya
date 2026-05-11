@@ -55,7 +55,7 @@ plug-ins/MMD4Maya/Scripts/PMX2FBX/
 C:\Program Files\Autodesk\Maya2025\bin\plug-ins
 ```
 
- ここからオリジナルのREADMEになりますのでこちらもご覧ください。
+ ここから下はフォーク元のREADMEになりますのでこちらもお読みください。
  ***
 
 # MMD4Maya
