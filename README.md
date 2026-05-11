@@ -55,7 +55,8 @@ plug-ins/MMD4Maya/Scripts/PMX2FBX/
 C:\Program Files\Autodesk\Maya2025\bin\plug-ins
 ```
 
-
+ ここからオリジナルのREADMEになりますのでこちらもご覧ください。
+ ***
 
 # MMD4Maya
 This is maya plug-in which use for importing pmx/pmd model to maya.<br>
