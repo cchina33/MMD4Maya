@@ -1,6 +1,6 @@
 # MMD4Maya - Maya 2025+
 
-[MMD4Maya](https://github.com/gameboy12615/MMD4Maya) を Maya 2025 以降で動作するように修正したプラグインです。
+[MMD4Maya](https://github.com/gameboy12615/MMD4Maya) を Maya 2025 以降で動作するようにアップデートしたものです。
 
 ## 主な変更点
 
